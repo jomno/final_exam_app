@@ -1,8 +1,8 @@
 ## 초기 작업
 
 ```bash
-  git clone https://github.com/worklionbclass/final_exam_app
-  cd final_exam_app
+  git clone https://github.com/jomno/final_exam_app_2
+  cd final_exam_app_2
   bundle install
   rake db:migrate
   rake db:seed
